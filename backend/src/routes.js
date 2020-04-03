@@ -20,8 +20,6 @@ routes.delete('/incidents/:id', IncidentController.delete);
 
 module.exports = routes;   // Exportar uma variável no Node.js
 
-//huhuh prestou!
-
 /**
  * Rota / Recurso
  */
